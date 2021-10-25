@@ -1,2 +1,4 @@
-numpy
-torch
+numpy~=1.21.3
+torch~=1.10.0
+ipython~=7.28.0
+d2l~=0.17.0
